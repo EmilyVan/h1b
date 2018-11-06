@@ -71,5 +71,5 @@ cd src
 
 3.**Sort:** Use the Python Standard Library **collections** to pick the top ten states and top ten occupations.
 
-4. **Output:** Use Standard **I/O** Library to write list of tuples to text files.
+4.**Output:** Use Standard **I/O** Library to write list of tuples to text files.
 
